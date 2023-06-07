@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=RandomPlayer
+comment0.text=\r\n\ A\ rando\ player\ for\ a\ Sokoban\ puzzle.\r\n\ \r\n\ @author\ Dr\ Mark\ C.\ Sinclair\r\n\ @version\ September\ 2021\r\n\ \r\n\ Student\ Name\:\ Mustafa\ Turgut\ Guvercin\r\n\ Student\ ID\:21034972\r\n
+comment1.params=
+comment1.target=RandomPlayer()
+comment1.text=\r\n\ Default\ constructor\r\n
+comment2.params=choices
+comment2.target=Direction\ move(java.util.Vector)
+comment2.text=\r\n\ Select\ a\ random\ direction\ from\ the\ vector\ of\ choices.\r\n\ \r\n\ @param\ choices\ possible\ directions\ for\ the\ player\ to\ choose\ from\r\n\ @return\ a\ random\ direction\r\n
+numComments=3

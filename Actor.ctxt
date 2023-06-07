@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Actor
+comment0.text=\r\n\ An\ actor\ in\ a\ Sokoban\ puzzle.\r\n\ \r\n\ @author\ Dr\ Mark\ C.\ Sinclair\r\n\ @version\ September\ 2021\r\n\ \r\n
+comment1.params=cell
+comment1.target=Actor(Cell)
+comment1.text=\r\n\ Constructor\ with\ cell\ currently\ occupied\r\n\ \r\n\ @param\ cell\ the\ cell\ occupied\ by\ this\ actor\ (Occupant\ constructor\ checks\ for\ null)\r\n
+comment2.params=
+comment2.target=boolean\ isActor()
+comment2.text=\r\n\ Checks\ if\ this\ occupant\ is\ an\ actor\r\n\ \r\n\ @return\ true\r\n
+comment3.params=
+comment3.target=char\ getDisplay()
+comment3.text=\r\n\ Gets\ the\ character\ to\ use\ for\ display\ purposes\ for\ this\ cell\r\n\ \r\n\ @return\ character\ to\ use\ for\ display\ purposes\ for\ this\ cell\r\n
+comment4.params=dir
+comment4.target=boolean\ canMove(Direction)
+comment4.text=\r\n\ Checks\ if\ the\ actor\ can\ move\ to\ the\ next\ cell\ in\ a\ given\ direction\r\n\ \r\n\ @param\ dir\ the\ direction\ to\ check\r\n\ @return\ can\ the\ actor\ \ move\ to\ the\ next\ cell\ in\ a\ given\ direction?\r\n
+comment5.params=s
+comment5.target=void\ trace(java.lang.String)
+comment5.text=\r\n\ A\ trace\ method\ for\ debugging\ (active\ when\ traceOn\ is\ true)\r\n\ \r\n\ @param\ s\ the\ string\ to\ output\r\n
+numComments=6

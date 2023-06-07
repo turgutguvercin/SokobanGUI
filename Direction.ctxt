@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Direction
+comment0.text=\r\n\ Compass\ directions\ in\ a\ Sokoban\ puzzle.\r\n\ \r\n\ @author\ Dr\ Mark\ C.\ Sinclair\r\n\ @version\ September\ 2021,\r\n\ \r\n\ Student\ Name\:\ Mustafa\ Turgut\ Guvercin\r\n\ Student\ ID\:21034972\r\n
+comment1.params=
+comment1.target=Direction\ left()
+comment1.text=\r\n\ The\ direction\ to\ the\ left\r\n\ \r\n\ @return\ dir\ the\ direction\ to\ the\ left\r\n
+comment2.params=
+comment2.target=Direction\ right()
+comment2.text=\r\n\ The\ direction\ to\ the\ right\r\n\ \r\n\ @return\ dir\ the\ direction\ to\ the\ right\r\n
+comment3.params=
+comment3.target=Direction\ reverse()
+comment3.text=\r\n\ The\ direction\ in\ reverse\r\n\ \r\n\ @return\ dir\ the\ direction\ in\ reverse\r\n
+comment4.params=dirString
+comment4.target=Direction\ fromString(java.lang.String)
+numComments=5

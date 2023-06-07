@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Box
+comment0.text=\r\n\ A\ box\ in\ a\ Sokoban\ puzzle.\r\n\ \r\n\ @author\ Dr\ Mark\ C.\ Sinclair\r\n\ @version\ September\ 2021\r\n\ \r\n\ Student\ Name\:\ Mustafa\ Turgut\ Guvercin\r\n\ Student\ ID\:21034972\r\n
+comment1.params=cell
+comment1.target=Box(Cell)
+comment1.text=\r\n\ Constructor\ with\ cell\ currently\ occupied\r\n\ \r\n\ @param\ cell\ the\ cell\ occupied\ by\ this\ box\ (Occupant\ constructor\ checks\ for\ null)\r\n
+comment2.params=
+comment2.target=boolean\ isBox()
+comment2.text=\r\n\ Checks\ if\ this\ occupant\ is\ a\ box\r\n\ \r\n\ @return\ true\r\n
+comment3.params=
+comment3.target=char\ getDisplay()
+comment3.text=\r\n\ Gets\ the\ character\ to\ use\ for\ display\ purposes\ for\ this\ cell\r\n\ \r\n\ @return\ character\ to\ use\ for\ display\ purposes\ for\ this\ cell\r\n
+comment4.params=
+comment4.target=boolean\ onTarget()
+comment4.text=\r\n\ Checks\ if\ the\ cell\ occupied\ by\ this\ box\ is\ a\ target\r\n\ \r\n\ @return\ is\ the\ cell\ occupied\ by\ this\ box\ a\ target?\r\n
+comment5.params=dir
+comment5.target=boolean\ isStuckSafe(Direction)
+comment5.text=\r\n\ Check\ if\ this\ box\ is\ safe\ (from\ getting\ stuck\ to\ another\ box)\ is\ it\ moves\ in\ the\ given\ direction\r\n\ \r\n\ @param\ dir\ the\ direction\ to\ check\r\n\ @return\ can\ this\ box\ move\ in\ the\ given\ direction\ without\ getting\ stuck\ on\ another\ box?\r\n
+comment6.params=dir
+comment6.target=boolean\ canMove(Direction)
+comment6.text=\r\n\ Checks\ if\ the\ box\ can\ move\ to\ the\ next\ cell\ in\ a\ given\ direction\r\n\ \r\n\ @param\ dir\ the\ direction\ to\ check\r\n\ @return\ can\ the\ box\ \ move\ to\ the\ next\ cell\ in\ a\ given\ direction?\r\n
+numComments=7

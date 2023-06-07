@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Wall
+comment0.text=\r\n\ A\ wall\ in\ a\ Sokoban\ puzzle.\r\n\ \r\n\ @author\ Dr\ Mark\ C.\ Sinclair\r\n\ @version\ September\ 2021\r\n
+comment1.params=cell
+comment1.target=Wall(Cell)
+comment1.text=\r\n\ Constructor\ with\ cell\ currently\ occupied\r\n\ \r\n\ @param\ cell\ the\ cell\ occupied\ by\ this\ wall\ (Occupant\ constructor\ checks\ for\ null)\r\n
+comment2.params=
+comment2.target=boolean\ isWall()
+comment2.text=\r\n\ Checks\ if\ this\ occupant\ is\ a\ wall\r\n\ \r\n\ @return\ true\r\n
+comment3.params=
+comment3.target=char\ getDisplay()
+comment3.text=\r\n\ Gets\ the\ character\ to\ use\ for\ display\ purposes\ for\ this\ cell\r\n\ \r\n\ @return\ character\ to\ use\ for\ display\ purposes\ for\ this\ cell\r\n
+numComments=4

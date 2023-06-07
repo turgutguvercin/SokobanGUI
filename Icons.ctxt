@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Icons
+comment0.text=\r\n\ This\ class\ represents\ the\ icons\ used\ in\ the\ GUI.\r\n\r\n\ @author\ Turgut\ Guvercin\r\n\ @version\ January\ 2022\r\n
+comment1.params=
+comment1.target=Icons()
+comment1.text=\r\n\ Constructor\ for\ reading\ the\ icons\r\n
+comment2.params=imageDeterminer
+comment2.target=javax.swing.ImageIcon\ getIcon(char)
+comment2.text=\r\n\ Determines\ the\ cell\ icon\ in\ GUI\ according\ to\ Sokoban\ class.\r\n\ \r\n\ @param\ imageDetermiener\ display\ as\ character\ from\ Sokoban\ class.\r\n
+numComments=3

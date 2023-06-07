@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=PanelCell
+comment0.text=\r\n\ A\ graphical\ representation\ of\ a\ cell\ in\ Sokoban\ game.\r\n\r\n\ @author\ Turgut\ Guvercin\r\n\ @version\ January\ 2022\r\n
+comment1.params=p\ r\ c\ imageDeterminer
+comment1.target=PanelCell(SokobanPanel,\ int,\ int,\ char)
+comment1.text=\r\n\ Constructor\ for\ key\ listeners\ and\ determines\ a\ cell\r\n\ \r\n\ @param\ p\ the\ panel\ object\ from\ SokobanPanel\ class\r\n\ @param\ r\ the\ row\ in\ the\ game\r\n\ @param\ c\ the\ column\ in\ the\ game\r\n\ @param\ image\ determiner\ in\ Sokoban\ class\r\n
+comment2.params=e
+comment2.target=void\ keyPressed(java.awt.event.KeyEvent)
+comment3.params=imageDeterminer
+comment3.target=void\ addIcon(char)
+comment3.text=\r\n\ Determines\ the\ cell\ icon\ in\ GUI\ according\ to\ Sokoban\ class.\r\n\ \r\n\ @param\ imageDetermiener\ display\ as\ character\ from\ Sokoban\ class.\r\n
+numComments=4

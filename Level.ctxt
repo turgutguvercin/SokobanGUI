@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Level
+comment0.text=\r\n\ Creates\ a\ custom\ dialog\ to\ change\ level.\r\n\r\n\ @author\ Turgut\ Guvercin\r\n\ @version\ January\ 2022\r\n
+comment1.params=
+comment1.target=Level()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Level\r\n
+comment2.params=
+comment2.target=java.lang.String\ getLevel()
+comment2.text=\r\n\ Method\ to\ send\ the\ user's\ choice\r\n
+numComments=3
