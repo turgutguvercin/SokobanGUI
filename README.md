@@ -5,4 +5,4 @@
 <h2>Getting Started</h2>
 <p>You need to create icons folder and add your own icons</p>
 <h2>Example Screenshot</h2>
-<img alt="screenshot" src="./Screenshot .png" />
+<img alt="screenshot" width="800px" src="./Screenshot .png" />
